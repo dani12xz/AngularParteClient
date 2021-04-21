@@ -1,0 +1,57 @@
+
+  
+#ParteSuperiore {
+  background-color: #474482;
+  color: white;
+  padding-top: 5px;
+  padding-left: 15px;
+  padding-bottom: 10px;
+    
+}
+#list {
+  width: 100%;
+  border-collapse: collapse;
+}
+  
+td {
+  border-top: 1px solid #ddd;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  padding-left: 25px;
+  padding-right: 30px;
+}
+#ParteInferiore {
+  height: auto;
+  border-style: solid;
+  border-top-color: #474482;
+}
+  
+label {
+  font-size: 25px;
+}
+  
+#insert {
+  display: inline-flex;
+}
+#modify {
+  position: absolute;
+  left: 87%;
+}
+  
+#action {
+  display: inline-flex;
+} 
+#add {
+  position: absolute;
+  left: 85%;
+  margin-top: 5px;
+  background-color: #4ccf51;
+  color: black;
+}
+  
+#remove {
+  position: absolute;
+  left: 82%;
+}
+
+  
